@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+🎓 Student @ USV - Calculatoare<br>Sunt un student pasionat de tehnologie, în prezent urmez cursurile facultății de Calculatoare din cadrul Universității "Ștefan cel Mare" din Suceava. Îmi place să construiesc soluții robuste pe backend, dar în prezent îmi extind orizonturile explorând intens zona de Frontend Development.<br>💼 Experiență Profesională<br>ASSIST Software | Backend Apprenticeship<br><br>Februarie 2025 – Iunie 2025<br><br>Februarie 2026 – Prezent<br><br>Am lucrat în cadrul proiectului Red Blue, concentrându-mă pe arhitectura de backend și logica de business a aplicației.<br>🛠️ Proiecte Personale & Skill-uri<br>Frontend Development (Current Focus 🚀)<br>Frontend Odyssey: O incursiune în UI/UX modern folosind stack-ul meu preferat.<br><br>Picsum Project: Implementarea unui display dinamic de imagini.<br><br>Stack: Next.js, Tailwind CSS, JavaScript/TypeScript.<br><br>Backend <br>The Inventory: Sistem de gestionare a inventarului dezvoltat în Python, cu accent pe structura bazei de date și eficiența interogărilor.<br>Red Blue: full-stack application, which allows 2 random users to play the "RED + BLUE" game.<br><br>Quality Assurance (QA)<br>Automated Testing Suite: Teste automate UI realizate cu Playwright.<br><br>API Testing: Framework de testare pentru endpoint-uri folosind tot Playwright, asigurând stabilitatea serviciilor backend.<br><br>⚙️ Tehnologii & Unelte<br>Languages: Python, JavaScript, C/C++ (via USV), SQL.<br><br>Frameworks: Next.js, Tailwind CSS.<br><br>Tools: Playwright, Git, Docker.<br><br>Learning: React patterns, Advanced CSS, și optimizare de backend.<br><br>📫 Cum mă poți contacta:<br>LinkedIn: https://www.linkedin.com/in/ruben-alexandru-iacob-6b616a264/<br><br>Email: iacob.ruben.a@gmail.com
 
-<!--
-**IacobRuben-Alexandru/IacobRuben-Alexandru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=IacobRuben-Alexandru&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=IacobRuben-Alexandru&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IacobRuben-Alexandru&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+[![](https://visitcount.itsvg.in/api?id=IacobRuben-Alexandru&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
